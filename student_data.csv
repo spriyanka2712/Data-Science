@@ -1,0 +1,17 @@
+Student_ID,Age,Gender,Attendance,Marks
+1,18,Female,90,85
+2,19,Male,85,78
+3,20,Female,,92
+4,18,Male,88,76
+5,21,Female,95,89
+6,19,Male,85,78
+6,19,Male,85,78
+7,20,Female,92,95
+8,18,Male,,80
+9,22,Female,98,300
+10,19,Male,87,82
+11,20,Female,91,
+12,18,Male,89,77
+13,21,Female,94,88
+14,20,Male,93,84
+15,19,Female,90,81
